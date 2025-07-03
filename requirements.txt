@@ -1,0 +1,8 @@
+instagrapi
+flask
+pillow
+python-dotenv
+schedule
+pytz
+reportlab
+python-docx
