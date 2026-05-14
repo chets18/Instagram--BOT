@@ -102,7 +102,7 @@ def scan_direct_messages():
                 with open(DATA_FILE, "w") as f:
                     json.dump(saved_data, f, indent=4)
 
-# === RUN THE BOT ===
+# RUN THE BOT 
 
 send_questionnaire()
 
