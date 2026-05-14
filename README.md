@@ -9,7 +9,7 @@ We had used the random delay option and also waiting, responding, like features 
 
 ## Features
 
-- Auto-login to Instagram using secure credentials**
+- Auto-login to Instagram using secure credentials
 - Automatically detects new followers
 - Sends a structured message/questionnaire to each new follower
 - Avoids sending messages to already contacted users
