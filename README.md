@@ -50,4 +50,4 @@ Instagram is strict with bots, and if you push the limits, it **will take action
 ## warning!!
 I, Chetraj, do not recommend using this method to send messages to followers, as it is not official. There are multiple DMing providers available on the internet that offer a more secure and reliable way to communicate. I explored this method because I wanted to understand how the system works and assess its security.
 
-**This is indeed vibe-coded, but it taught me more than I could learn by copying the code from a YouTube tutorial. **
+**This is indeed vibe-coded, but it taught me more than I could learn by copying the code from a YouTube tutorial.**
