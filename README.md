@@ -37,7 +37,7 @@ Instagram is strict with bots, and if you push the limits, it **will take action
 3. 2️⃣ How old are you?
 4. 3️⃣ What's your height (in cm)?
 5. 4️⃣ What's your weight (in kg)?
-6. 5️⃣ What is your fitness goal? (customisable)]
+6. 5️⃣ What is your fitness goal? (customisable)
 
 ---
 
